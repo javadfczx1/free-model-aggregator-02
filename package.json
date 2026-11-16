@@ -1,0 +1,16 @@
+{
+  "name": "free-model-aggregator-02",
+  "version": "1.0.0",
+  "description": "High-Performance Tactical Free Model Aggregator for make.fun",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts",
+    "list": "node main.ts --list"
+  },
+  "keywords": ["ai", "aggregator", "openai", "anthropic", "openrouter"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
